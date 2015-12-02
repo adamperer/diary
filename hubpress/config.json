@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "adamperer",
-    "repositoryName": "diary",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"adamperer","repositoryName":"diary","branch":"gh-pages","delay":"2000"},"site":{"title":"research diary","url":"https://adamperer.github.io/diary"},"socialnetwork":{},"theme":{"name":"Casper","url":"//adamperer.github.io/diary/themes/Casper"}}
